@@ -15,7 +15,7 @@ function App() {
         <Route path="/crypto" element={<Crypto />} />
         <Route path="/officer-dashboard" element={<OfficerDashboard />} />
       </Routes>
-    </div>
+     </div>
   );
 }
 
